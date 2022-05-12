@@ -1,0 +1,1 @@
+# micronaut-amadeus-sdk-demo
